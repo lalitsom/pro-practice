@@ -4,6 +4,9 @@ Links to the problems.
 ```
 ### very basic problems to make yourself familiar with platform
 
+<h5 style="color:red"> When solving a problem delete already written code from editor and start from scratch.</h5>
+
+
 * [Integers](
 https://www.hackerrank.com/challenges/a-very-big-sum/problem)
 
