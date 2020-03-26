@@ -3,6 +3,10 @@
 ## Note:
 * I will add questions according to topics, and also share my solution. Most of my solutions will be in c++ (Preffered for Pro).  <br> If you need a solution in java or another language just message me on whatsapp or add a Issue in github repository.
 * If you want to learn some additional concept or topic, inform me. I will add it to extras and questions related to it.
+* you cannot use any library from c++ or java. only the basics default ones. <br>
+In c++ just include <stdio.h><br>
+In java just the java.util.lang and java.io library.
+
 
 ## Level - 1 
 ```
@@ -61,3 +65,13 @@ Topics that rarely comes in test. But Important.
 * Sqrt decomposition
 * Recursion
 * Modular exponentiation.
+
+
+<hr>
+
+## How to share solutions or your code from hackerrank
+
+If you want to share your code after submitting to hacker rank.
+Go to submission Tab of the problem. Click on view result.
+Share the link from address bar.
+* Note: You cannot view other people solution unless you have solved the question.

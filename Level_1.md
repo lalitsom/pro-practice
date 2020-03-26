@@ -2,7 +2,7 @@
 ```
 Links to the problems.
 ```
-### very basic problems to make yourself familiar with c/c++
+### very basic problems to make yourself familiar with platform
 
 * [Integers](
 https://www.hackerrank.com/challenges/a-very-big-sum/problem)
@@ -25,3 +25,4 @@ https://www.hackerrank.com/challenges/kangaroo/problem)
 * [Long description](
 https://www.hackerrank.com/challenges/grading/problem
 )
+
