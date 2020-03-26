@@ -5,7 +5,7 @@
 * If you want to learn some additional concept or topic, inform me. I will add it to extras and questions related to it.
 * you cannot use any library from c++ or java. only the basics default ones. <br>
 In c++ just include <stdio.h><br>
-In java just use the java.util.* (not all features of even this library will work) :P
+In java just use the default library provided "java.lang"  no need to import. additionally you might also need to use scanner class to scan inputs.
 
 
 ## Level - 1 
