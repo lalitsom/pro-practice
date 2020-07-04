@@ -1,0 +1,10 @@
+Integer A Very BigSum
+
+static long aVeryBigSum(long[] ar) {
+        long temp=0;
+          for(int i=0;i<ar.length;i++){
+          temp=temp+ar[i];
+          }
+          return temp;
+
+    }
